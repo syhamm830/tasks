@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, sans-serif;
+text-align: center;
+}
+button{
+    margin: 10px;
+    padding: 5px;
+    background-color: fuchsia;
+    font-size: 15px;
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+}
+input{
+    margin: 10px;
+    padding: 5px;
+    box-shadow:  10px 5px 5px black;
+}
+ul{
+    padding: 0;
+}
